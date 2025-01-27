@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElseAlistirma", "IfElseAlistirma\IfElseAlistirma.csproj", "{0DBE9747-6C68-4033-8E99-4FFD1187CC1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElseAlistirma2", "IfElseAlistirma2\IfElseAlistirma2.csproj", "{6295E283-8B76-4948-B76E-1DCACE2CC589}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElseAlistirma3", "IfElseAlistirma3\IfElseAlistirma3.csproj", "{AA550F23-7C62-4A54-9C6A-83410FD541E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HesapMakinesiIfElse", "HesapMakinesiIfElse\HesapMakinesiIfElse.csproj", "{3D086ACC-9016-4CE9-9662-B58FEDBDBF17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForAlistirma", "ForAlistirma\ForAlistirma.csproj", "{3E7081E9-0F5F-4A16-90B6-3A458E4CE686}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForAlistirma2", "ForAlistirma2\ForAlistirma2.csproj", "{9DAC0AB5-9AFE-4A3C-B9E7-F17F00C5F299}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DBE9747-6C68-4033-8E99-4FFD1187CC1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DBE9747-6C68-4033-8E99-4FFD1187CC1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DBE9747-6C68-4033-8E99-4FFD1187CC1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DBE9747-6C68-4033-8E99-4FFD1187CC1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6295E283-8B76-4948-B76E-1DCACE2CC589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6295E283-8B76-4948-B76E-1DCACE2CC589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6295E283-8B76-4948-B76E-1DCACE2CC589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6295E283-8B76-4948-B76E-1DCACE2CC589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA550F23-7C62-4A54-9C6A-83410FD541E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA550F23-7C62-4A54-9C6A-83410FD541E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA550F23-7C62-4A54-9C6A-83410FD541E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA550F23-7C62-4A54-9C6A-83410FD541E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D086ACC-9016-4CE9-9662-B58FEDBDBF17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D086ACC-9016-4CE9-9662-B58FEDBDBF17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D086ACC-9016-4CE9-9662-B58FEDBDBF17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D086ACC-9016-4CE9-9662-B58FEDBDBF17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E7081E9-0F5F-4A16-90B6-3A458E4CE686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E7081E9-0F5F-4A16-90B6-3A458E4CE686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E7081E9-0F5F-4A16-90B6-3A458E4CE686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E7081E9-0F5F-4A16-90B6-3A458E4CE686}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DAC0AB5-9AFE-4A3C-B9E7-F17F00C5F299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DAC0AB5-9AFE-4A3C-B9E7-F17F00C5F299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DAC0AB5-9AFE-4A3C-B9E7-F17F00C5F299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DAC0AB5-9AFE-4A3C-B9E7-F17F00C5F299}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
